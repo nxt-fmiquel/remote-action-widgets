@@ -1,0 +1,19 @@
+{
+  "name": "@nexthink/remote-action-widgets",
+  "version": "1.11.4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nxt-fmiquel/remote-action-widgets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nxt-fmiquel/remote-action-widgets/issues"
+  },
+  "homepage": "https://github.com/nxt-fmiquel/remote-action-widgets#readme",
+  "description": ""
+}
